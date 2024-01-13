@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @notunknownfr
-- 👀 I’m interested in crypto , programming (Python in particular)
+- 👀 I’m interested in programming (Python in particular)
 - 🌱 I’m currently learning python and its role in cybersecurity
 - 💞️ I’m looking to collaborate on improving myself with like-minded ppl
-- 📫 How to reach me : email at abdullahsaqib18@gmail.com  
+- 📫 How to reach me : email at abdullahsaqib18@gmail.com  to
 
 <!---
 notunknownfr/notunknownfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
